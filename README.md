@@ -1,3 +1,5 @@
+[![Java CI with Gradle](https://github.com/komshuk/Reporting/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/komshuk/Reporting/actions/workflows/gradle-publish.yml)
+
 # Домашнее задание к занятию «4.1. Репортинг»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
